@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mramgir
+Build-Jdk: 11.0.1
+Implementation-Title: MyEShop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.fullstackdevelopment
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MyEShop
+Created-By: Maven Integration for Eclipse
+
